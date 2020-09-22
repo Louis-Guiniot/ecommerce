@@ -1,0 +1,209 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "moris",
+      "name": "Louis",
+      "surname": "",
+      "indirizzo": "",
+      "cellulare": "",
+      "citta": "",
+      "informazioni": "",
+      "cap": "",
+      "numero": ""
+    }
+  ],
+  "pagamento": [
+    {
+      "pagamento": {
+        "metodoPagamento": "drfhg",
+        "tipoCarta": "hyrtsh",
+        "numeroCarta": "rsdty6h",
+        "cvc": "dtry6jdtyj67ft7j"
+      },
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "title": "zaino",
+        "description": "zaino bellissimoooooo",
+        "image": "../assets/images/home/carosel/zaini2.png",
+        "color": "verde",
+        "textColor": "nero",
+        "steps": [
+          {
+            "id": null,
+            "title": "zaino",
+            "description": "zaino",
+            "image": "zaino",
+            "color": "zaino",
+            "textColor": "zaino"
+          }
+        ]
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 1,
+        "title": "zaino",
+        "description": "zaino bellissimoooooo",
+        "image": "../assets/images/home/carosel/zaini2.png",
+        "color": "verde",
+        "textColor": "nero",
+        "steps": [
+          {
+            "id": null,
+            "title": "zaino",
+            "description": "zaino",
+            "image": "zaino",
+            "color": "zaino",
+            "textColor": "zaino"
+          }
+        ]
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 1,
+        "title": "zaino",
+        "description": "zaino bellissimoooooo",
+        "image": "../assets/images/home/carosel/zaini2.png",
+        "color": "verde",
+        "textColor": "nero",
+        "steps": [
+          {
+            "id": null,
+            "title": "zaino",
+            "description": "zaino",
+            "image": "zaino",
+            "color": "zaino",
+            "textColor": "zaino"
+          }
+        ]
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "title": "zaino",
+        "description": "zaino bellissimoooooo",
+        "image": "../assets/images/home/carosel/zaini2.png",
+        "color": "verde",
+        "textColor": "nero",
+        "steps": [
+          {
+            "id": null,
+            "title": "zaino",
+            "description": "zaino",
+            "image": "zaino",
+            "color": "zaino",
+            "textColor": "zaino"
+          }
+        ]
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 1,
+        "title": "zaino",
+        "description": "zaino bellissimoooooo",
+        "image": "../assets/images/home/carosel/zaini2.png",
+        "color": "verde",
+        "textColor": "nero",
+        "steps": [
+          {
+            "id": null,
+            "title": "zaino",
+            "description": "zaino",
+            "image": "zaino",
+            "color": "zaino",
+            "textColor": "zaino"
+          }
+        ]
+      },
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "zaino",
+      "description": "zaino bellissimoooooo",
+      "image": "../assets/images/home/carosel/zaini2.png",
+      "color": "verde",
+      "textColor": "nero",
+      "steps": [
+        {
+          "id": null,
+          "title": "zaino",
+          "description": "zaino",
+          "image": "zaino",
+          "color": "zaino",
+          "textColor": "zaino"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "borsa",
+      "description": "borsa bella",
+      "image": "../assets/images/home/carosel/borse.jpg",
+      "color": "BLU",
+      "textColor": "nero",
+      "steps": [
+        {
+          "done": false,
+          "title": "borsa",
+          "description": "swag",
+          "image": "\"../assets/images/borsa.jpg\"",
+          "color": "rosso",
+          "textColor": "bianco",
+          "id": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "felpa",
+      "description": "felpa bella",
+      "image": "../assets/images/home/carosel/giacche.jpg",
+      "color": "blu",
+      "textColor": "verde",
+      "steps": [
+        {
+          "id": null,
+          "title": "felpa",
+          "description": "felpa libera",
+          "image": "felpa libera",
+          "color": "felpa libera",
+          "textColor": "felpa libera"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "t shirt",
+      "description": "t shirt bella",
+      "image": "../assets/images/home/carosel/magliette.jpg",
+      "color": "nero",
+      "textColor": "bianco",
+      "steps": [
+        {
+          "id": null,
+          "title": "t shirt",
+          "description": "t shirt",
+          "image": "t shirt",
+          "color": "t shirt",
+          "textColor": "t shirt"
+        }
+      ]
+    }
+  ]
+}
