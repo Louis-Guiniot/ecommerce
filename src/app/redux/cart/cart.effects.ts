@@ -19,7 +19,7 @@ export class CartEffects{
         ofType(addToCart),
         switchMap(action => this.httpCommunicationsService.retrievePostCall<Products>("cart", {product: action.product}).pipe(
             map(product => saveToCart({product})), 
-            tap(()=> this.router.navigateByUrl("/home"))
+            tap(()=> this.router.navigateByUrl("/cart"))
         ))
     ));
 
