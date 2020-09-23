@@ -88,7 +88,6 @@
 
 .carousel-indicators > li{
     background-color: rgb(216, 133, 255);
-    height: 10px;
 }
 
 .carousel-indicators{
@@ -98,13 +97,14 @@
     
 }
 
-.carousel-control-prev-icon , .carousel-control-next-icon {
+.carousel-control-prev-icon, .carousel-control-next-icon {
     background-color: rgba(216, 133, 255);
-    height: 100px;
+    height: 5%;
 }
 
 .carousel-control-prev{
     padding-right: 150px;
+    color: rgba(216, 133, 255);
 }
 
 .carousel-control-next{

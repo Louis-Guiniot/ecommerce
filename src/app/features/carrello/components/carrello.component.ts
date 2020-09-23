@@ -26,7 +26,7 @@ export class CarrelloComponent implements OnInit {
 
   ngOnInit(): void {
     this.products.subscribe(item=>{
-      console.log('weeeeee')
+      console.log('got it ')
     })
   }
 
