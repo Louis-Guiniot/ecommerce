@@ -2,8 +2,8 @@ export interface User {
     name: string;
     surname: string;
     username: string;
-    address: string;
-    city: string;
+    indirizzo: string;
+    citta: string;
     cellulare: string;
     cap: string;
     numero: string;

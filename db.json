@@ -4,8 +4,8 @@
       "id": 1,
       "username": "moris",
       "name": "Louis",
-      "surname": "",
-      "indirizzo": "",
+      "surname": "Guiniot",
+      "indirizzo": "Via Vittorio Veneto",
       "cellulare": "",
       "citta": "",
       "informazioni": "",
@@ -129,6 +129,48 @@
         ]
       },
       "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "title": "borsa",
+        "description": "borsa bella",
+        "image": "../assets/images/home/carosel/borse.jpg",
+        "color": "BLU",
+        "textColor": "nero",
+        "steps": [
+          {
+            "id": null,
+            "title": "borsa",
+            "description": "truzzissima",
+            "image": "borsa",
+            "color": "rosso",
+            "textColor": "bianco"
+          }
+        ]
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 1,
+        "title": "zaino",
+        "description": "zaino bellissimoooooo",
+        "image": "../assets/images/home/carosel/zaini2.png",
+        "color": "verde",
+        "textColor": "nero",
+        "steps": [
+          {
+            "id": null,
+            "title": "zaino",
+            "description": "zaino",
+            "image": "zaino",
+            "color": "zaino",
+            "textColor": "zaino"
+          }
+        ]
+      },
+      "id": 7
     }
   ],
   "products": [

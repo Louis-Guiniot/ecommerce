@@ -28,21 +28,16 @@
 
         <table class="preview">
             <tr>
-                <td>Prodotti acquistati</td>
-                <td *ngFor="let product of products | async" class="tab-preview">{{product?.product?.title}}</td>
-            </tr>
-            
-            <tr>
                 <td>Indirizzo</td>
                 <td><ng-container *ngIf="user | async as currentUser" >
-                    {{currentUser?.indirizzo}}
+                    Via Vittorio Veneto
                     </ng-container></td>
                 <td></td>
             </tr>
             <tr>
                 <td>Spedito al sig.</td>
                 <td><ng-container *ngIf="user | async as currentUser" >
-                    {{currentUser?.name}}, {{currentUser?.surname}} 
+                    {{currentUser?.name}} Guiniot
                     </ng-container></td>
             </tr>
         </table>

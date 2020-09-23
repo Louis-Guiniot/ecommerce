@@ -40,7 +40,8 @@ export class SecondoStepComponent implements OnInit {
     this.user.subscribe(user=>{
       this.dati.patchValue({
         name: user.name,
-        surname: user.surname
+        surname: user.surname,
+        indirizzo: user.indirizzo
       })
     })
    }
