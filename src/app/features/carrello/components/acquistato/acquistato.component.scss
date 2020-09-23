@@ -1,14 +1,17 @@
 .msg-confirm{
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10%;
-    width: 60%;
+    background-color: white;
+    box-shadow: rgba(216, 133, 255,1) 1em 1em;
+    border: 0.1em lightgrey solid;
     text-align: center;
+    width:50%;
+    margin: 5% auto;
+    color: black;
+    padding:5%;
 }
 
 .btn-home{
     width: 30%;
-    padding:10px;
+    padding:3%;
     font-weight:bold;
     border: 2px rgba(216, 133, 255,1) solid;
     border-radius: 5px;
