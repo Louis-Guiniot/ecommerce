@@ -7,7 +7,7 @@
 }
 
 .colored-bk{
-    background: rgb(109,210,253);
+    background: rgba(109,210,253,1);
     background: linear-gradient(90deg, rgba(109,210,253,1) 38%, rgb(216, 133, 255,1) 65%);
     height: 200px;
 }
@@ -66,7 +66,7 @@
 .prodLink{
     border-radius: 5px;
     border: none;
-    background-color: rgb(216, 133, 255);
+    background-color: rgba(216, 133, 255,1);
     width: 15%;
     padding: 10px;
     color: white;
@@ -87,7 +87,7 @@
 }
 
 .carousel-indicators > li{
-    background-color: rgb(216, 133, 255);
+    background-color: rgba(216, 133, 255,1);
 }
 
 .carousel-indicators{
@@ -98,7 +98,7 @@
 }
 
 .carousel-control-prev-icon, .carousel-control-next-icon {
-    background-color: rgba(216, 133, 255);
+    background-color: rgba(216, 133, 255,1);
     height: 5%;
 }
 

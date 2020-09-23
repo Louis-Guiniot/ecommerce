@@ -4,14 +4,14 @@
 }
 
 .colored-bk{
-    background: rgb(109,210,253);
-    background: linear-gradient(90deg, rgba(76, 176, 219,1) 35%, rgba(193,128,255,1) 100%);
+    background: rgba(109,210,253,1);
+    background: linear-gradient(90deg, rgba(109,210,253,1) 38%, rgba(216, 133, 255,1) 65%);
     height: 200px;
 }
 
 .header{
     width: 100%;
-    background-color: rgba(255,255,255,0.3);
+    background-color:  rgba(221, 247, 255, 0.5);
 }
 
 .grid-container{
@@ -104,13 +104,13 @@
 
 #annulla button{
     background-color: white;
-    color: rgba(193,128,255,1); 
+    color: rgba(216, 133, 255,1); 
 }
 
 button{
     width: 60%;
     padding:10px;
     font-weight:bold;
-    border: 2px rgba(193,128,255,1) solid;
+    border: 2px rgba(216, 133, 255,1) solid;
     border-radius: 5px;
 }
